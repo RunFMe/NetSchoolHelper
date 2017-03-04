@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "Netschool helper",
+  "description": "Netschool helper",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [{
+       "matches": ["http://netschool.school.ioffe.ru/", 
+        "http://netschool.school.ioffe.ru/about.asp?AL=Y"],
+       "js":      ["content.js"]
+  }],
+  "permissions": [
+    "storage"
+  ]
+}
