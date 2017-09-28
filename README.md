@@ -8,7 +8,7 @@ It's really annoying to login to netschool.net every 15 minutes so I decided to 
 
 * Download zip archive of the project [zip-archive](https://github.com/RunFMe/NetSchoolHelper/archive/master.zip).
 * Unzip it somewhere. Now you have **NetSchoolHelper-master** folder on your computer
-* Go to [Extensions](chrome://extensions/)
+* * Go to Extensions. Write chrome://extensions/ in the address line or go to More->More Tools->Extensions.
 * Select *Upload Unpacked Extension* and choose **NetSchoolHelper-master** folder you got previously
 * Now open extension's window by clicking on the icon and write down your NetCshool login and password. Helper will write down tour login and pass in the form everytime you try to login.
 * (optional) Turn on autologin if you don't want to manually press the button
