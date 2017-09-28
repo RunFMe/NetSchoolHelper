@@ -15,6 +15,8 @@ It's really annoying to login to netschool.net every 15 minutes so I decided to 
 
 # FAQ
 
-1. **QUESTION:** I'm stuck at login page because it tries to autlogin
+1. **QUESTION:** I'm stuck at login page because it tries to autologin
 
 **ANSWER:** Turn off autologin in extension's menu and try changing your login or password
+
+Write me in VK if you have questions [ME](https://vk.com/leleytner)
